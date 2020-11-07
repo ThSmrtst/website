@@ -1,8 +1,9 @@
 ---
 title: Team
 layout: teams
-permalink: /team/
-intro_image_absolute: true
+permalink: /about/
+intro_image_absolute: false
+intro_image: "images/illustrations/undraw_Scrum_board_re_wk7v.svg"
 intro_image_hide_on_mobile: false
 ---
 

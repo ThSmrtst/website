@@ -1,8 +1,8 @@
 ---
 title: Services
 layout: services
-intro_image: "images/illustrations/undraw_Artificial_intelligence_re_enpp.svg"
-intro_image_absolute: true
+intro_image: "images/illustrations/undraw_data_xmfy.svg"
+intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
 
