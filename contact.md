@@ -4,4 +4,5 @@ layout: contact
 bodyClass: page-contact
 ---
 
-You can write to us by email or any of our social media pages. 
+### Tell us what your problems. Your timeline and budget. We’ll answer shortly.
+### You can write to us by email or any of our social media pages. 
